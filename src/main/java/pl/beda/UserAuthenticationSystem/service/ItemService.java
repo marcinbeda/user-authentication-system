@@ -8,22 +8,20 @@ import org.springframework.data.domain.Pageable;
 import pl.beda.UserAuthenticationSystem.entity.Item;
 
 public interface ItemService {
-	
-	
-	public void saveItem(Item item);
-	
-	public List<Item> getItemsWithQuantityOverTwenty();
-	
-	public List<Item> getItemsWithQuantityOver(int minQuantityThreshold);
-	
-	public List<Item> getItemsWithNameLike(String regex);
-	
-	public List<Item> findByQuantity(Integer quantity);
-	
-	public List<Item> findByQuantityBetween(Integer minQuantity, Integer maxQuantity);
-	
-	public List<Item> findByQuantityGreaterThanEqualOrderByQuantityDesc(Integer minQuantity);
-	
-	public Page<Item> findAll(Pageable pageable);
 
+    void saveItem(Item item);
+
+    List<Item> getItemsWithQuantityOverTwenty();
+
+    List<Item> getItemsWithQuantityOver(int minQuantityThreshold);
+
+    List<Item> getItemsWithNameLike(String regex);
+
+    List<Item> findByQuantity(Integer quantity);
+
+    List<Item> findByQuantityBetween(Integer minQuantity, Integer maxQuantity);
+
+    List<Item> findByQuantityGreaterThanEqualOrderByQuantityDesc(Integer minQuantity);
+
+    Page<Item> findAll(Pageable pageable);
 }

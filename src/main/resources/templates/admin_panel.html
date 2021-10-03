@@ -1,14 +1,18 @@
 <!doctype html>
 <html xmlns:th="http://ww.thymeleaf.org">
 <head>
-	<title>Admin panel</title>
-	<link rel="stylesheet" type="text/css" href="css/menu.css">
+    <title>Admin panel</title>
+    <link rel="stylesheet" type="text/css" href="css/menu.css">
+    <link rel="stylesheet" type="text/css" href="css/user_panel.css">
+    <link href="https://fonts.googleapis.com/css?family=Nunito&display=swap"
+          rel="stylesheet">
 </head>
 
 <body>
-	<div th:insert="menu.html :: div"></div>
-	<h1>Admin Panel</h1>
+<div th:insert="menu.html :: div"></div>
+<div class="user-panel-wrapper">
+    <div class="title user-panel-element">Admin Panel</div>
+    <div class="greetings user-panel-element" th:text="${greetings}"></div>
+</div>
 </body>
-
-
 </html>

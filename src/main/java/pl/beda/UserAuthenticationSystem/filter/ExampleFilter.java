@@ -12,9 +12,11 @@ import javax.servlet.ServletResponse;
 import org.springframework.core.annotation.Order;
 import org.springframework.stereotype.Component;
 
+	// IT'S NOT IMPORTANT CLASS FOR THIS PROJECT
+
 @Component
 @Order(1)
-public class FirstFilter implements Filter {
+public class ExampleFilter implements Filter {
 	
 	@Override
 	public void init(FilterConfig filterConfig) throws ServletException {
@@ -26,7 +28,6 @@ public class FirstFilter implements Filter {
 	public void doFilter(ServletRequest request, ServletResponse response, FilterChain chain)
 			throws IOException, ServletException {
 		chain.doFilter(request, response);
-		
 	}
 	
 	@Override
