@@ -12,29 +12,29 @@ System for handling user authentication and authorization.
 
 # <p align="center">Login View</p>
 
-<p align="center"><img width="960" height="521" src="https://github.com/marcinbeda/user-authentication-system/blob/master/screenshots/Login_View.PNG"></p>
+<p align="center"><img width="768" height="416.8" src="https://github.com/marcinbeda/user-authentication-system/blob/master/screenshots/Login_View.PNG"></p>
 
 # <p align="center">Register View</p>
 
-<p align="center"><img width="960" height="521" src="https://github.com/marcinbeda/user-authentication-system/blob/master/screenshots/Register_View.PNG"></p>
+<p align="center"><img width="768" height="416.8" src="https://github.com/marcinbeda/user-authentication-system/blob/master/screenshots/Register_View.PNG"></p>
 
 # <p align="center">User Panel View By User</p>
 
-<p align="center"><img width="960" height="521" src="https://github.com/marcinbeda/user-authentication-system/blob/master/screenshots/User_Panel_View_With_User_Role.PNG"></p>
+<p align="center"><img width="768" height="416.8" src="https://github.com/marcinbeda/user-authentication-system/blob/master/screenshots/User_Panel_View_With_User_Role.PNG"></p>
 
 # <p align="center">User Panel View By Admin</p>
 
-<p align="center"><img width="960" height="521" src="https://github.com/marcinbeda/user-authentication-system/blob/master/screenshots/User_Panel_View_With_Admin_Role.PNG"></p>
+<p align="center"><img width="768" height="416.8" src="https://github.com/marcinbeda/user-authentication-system/blob/master/screenshots/User_Panel_View_With_Admin_Role.PNG"></p>
 
 # <p align="center">Admin Panel View By Admin</p>
 
-<p align="center"><img width="960" height="521" src="https://github.com/marcinbeda/user-authentication-system/blob/master/screenshots/Admin_Panel_View_With_Admin_Role.PNG"></p>
+<p align="center"><img width="768" height="416.8" src="https://github.com/marcinbeda/user-authentication-system/blob/master/screenshots/Admin_Panel_View_With_Admin_Role.PNG"></p>
 
 # <p align="center">Example Confirmation Link</p>
 
-<p align="center"><img width="644" height="135.1" src="https://github.com/marcinbeda/user-authentication-system/blob/master/screenshots/Example_Confirm_Link.PNG"></p>
+<p align="center"><img width="460" height="96.5" src="https://github.com/marcinbeda/user-authentication-system/blob/master/screenshots/Example_Confirm_Link.PNG"></p>
 
 # <p align="center">View of Successfully Activated Account</p>
 
-<p align="center"><img width="960" height="521" src="https://github.com/marcinbeda/user-authentication-system/blob/master/screenshots/Activation_Account_View.PNG"></p>
+<p align="center"><img width="768" height="416.8" src="https://github.com/marcinbeda/user-authentication-system/blob/master/screenshots/Activation_Account_View.PNG"></p>
 
