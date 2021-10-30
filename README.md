@@ -32,7 +32,7 @@ System for handling user authentication and authorization.
 
 # <p align="center">Example Confirmation Link</p>
 
-<p align="center"><img width="460" height="96.5" src="https://github.com/marcinbeda/user-authentication-system/blob/master/screenshots/Example_Confirm_Link.PNG"></p>
+<p align="center"><img width="736" height="154.4" src="https://github.com/marcinbeda/user-authentication-system/blob/master/screenshots/Example_Confirm_Link.PNG"></p>
 
 # <p align="center">View of Successfully Activated Account</p>
 
